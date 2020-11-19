@@ -1,0 +1,1 @@
+# The simplest setup to check favicon is working
